@@ -1,0 +1,6 @@
+name = "MatchTesting"
+version = "0.1.0"
+defaultTargets = ["MatchTesting"]
+
+[[lean_lib]]
+name = "MatchTesting"
